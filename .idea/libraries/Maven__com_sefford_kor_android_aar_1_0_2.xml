@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.sefford:kor-android:aar:1.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gen-external-apklibs/com.sefford_kor-android_1.0.2/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/gen-external-apklibs/com.sefford_kor-android_1.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sefford/kor-android/1.0.2/kor-android-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sefford/kor-android/1.0.2/kor-android-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

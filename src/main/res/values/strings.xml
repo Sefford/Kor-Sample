@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kor Samples</string>
+    <string name="hello">Hello kor-sample!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_retrieve_contacts">List phone contacts</string>
+    <string name="button_find_ips">Local IP Search</string>
+    <string name="button_network_request">Get Networked</string>
+    <string name="button_get_from_cache">Get cached results</string>
+
+    <string name="letter_tile_letter_font_family">sans-serif-thin</string>
+
+</resources>

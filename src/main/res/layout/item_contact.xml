@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+    <ImageView
+            android:id="@+id/iv_avatar"
+            android:layout_height="@dimen/avatar_size_normal"
+            android:layout_width="@dimen/avatar_size_normal"
+            android:layout_marginBottom="27dip"
+            android:layout_marginLeft="@dimen/default_layout_margin"
+            android:layout_centerVertical="true"
+            android:src="@drawable/avatar_placeholder"/>
+
+    <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/default_layout_margin"
+            android:layout_alignWithParentIfMissing="true"
+            android:layout_centerVertical="true"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/iv_avatar"
+            android:textSize="20sp"
+            tools:text="Papadopoulos Papandreus"/>
+
+</RelativeLayout>

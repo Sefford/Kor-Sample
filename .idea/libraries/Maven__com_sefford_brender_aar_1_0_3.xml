@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.sefford:brender:aar:1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gen-external-apklibs/com.sefford_brender_1.0.3/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/gen-external-apklibs/com.sefford_brender_1.0.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sefford/brender/1.0.3/brender-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sefford/brender/1.0.3/brender-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
